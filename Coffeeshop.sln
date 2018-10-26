@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB34BEE-4889-4E19-A076-5F86C8455FA3}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		outputpath = .
+		Policies = $0
+		$0.StandardHeader = $1
+		$0.VersionControlPolicy = $2
+		$2.CommitMessageStyle = $3
+		$3.Indent = @\t
+		$3.LastFilePostfix = "@:\n  "
+		$3.IncludeDirectoryPaths = True
+		$3.LineAlign = 0
+	EndGlobalSection
+EndGlobal
